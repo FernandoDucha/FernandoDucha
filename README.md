@@ -7,6 +7,6 @@ biblioteca como  boost, mas eu resolvi fazer pra aprender a fazer. Se vcs tivere
 fordem@gmail.com com o seu e-mail de login no github. Mas aviso aos navegantes não é um código preparado para distribuição, não tem documentação e nem exemplos e nem
 nada pra usar direito vc vai ter que ler o código da função que vc pensa que faz o que quer e ver como se fuciona do jeito que vc quer. Desculpem-me gente, eu  amo essa
 biblioteca como so fosse um ente querido, mas  não tenho tanto tempo assim para  ela.
-No mais os outros códigos sõo  só para provar que fui que fiz o código de tal e tal coisa sem mais nenhum propósito.
+No mais os outros códigos são  só para provar que fui que fiz o código de tal e tal coisa sem mais nenhum propósito.
 
 FIQUEM BEM SERVIDOS e SEJAM BEM VINDOS!
